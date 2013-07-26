@@ -1,0 +1,62 @@
+{
+    "media": [
+        {
+            "characterRegex": "[0-9:.]",
+            "defName": "FONT_ARIAL_50",
+            "type": "font",
+            "file": "fonts/arial.ttf"
+        },
+        {
+            "defName": "APP_ICON",
+            "type": "png",
+            "file": "images/app_icon.png"
+        },
+        {
+            "defName": "IMAGE_THUNDER",
+            "type": "png",
+            "file": "images/thunder.png"
+        },
+        {
+            "defName": "IMAGE_SNOW",
+            "type": "png",
+            "file": "images/snow.png"
+        },
+        {
+            "defName": "IMAGE_FOG",
+            "type": "png",
+            "file": "images/fog.png"
+        },
+        {
+            "defName": "IMAGE_WIND",
+            "type": "png",
+            "file": "images/wind.png"
+        },
+        {
+            "defName": "IMAGE_SUN_CLOUD",
+            "type": "png",
+            "file": "images/sun_cloud.png"
+        },
+        {
+            "defName": "IMAGE_CLOUD",
+            "type": "png",
+            "file": "images/cloud.png"
+        },
+        {
+            "defName": "IMAGE_RAIN",
+            "type": "png",
+            "file": "images/rain.png"
+        },
+        {
+            "defName": "IMAGE_SUN",
+            "type": "png",
+            "file": "images/sun.png"
+        },
+        {
+            "defName": "IMAGE_BACKGROUND",
+            "type": "png",
+            "file": "images/background.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
